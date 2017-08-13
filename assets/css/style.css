@@ -1,0 +1,42 @@
+body {
+	background-image: url("http://wallpapercave.com/wp/F64Hbzt.jpg");
+}
+
+.titleOfGame {
+	font-size: 40px;
+	padding-bottom: 20px;
+	background-color: #FF5C5C;
+
+}
+
+#instructions {
+	padding: 20px 0px 20px 10px;
+	font-size: 18px;
+	border-right: 800px;
+	margin-right: 800px;
+	margin-top: 20px;
+
+	
+}
+
+.container {
+	font-size: 20px;
+	margin: 10px;
+}
+
+#wrapper {
+	color: #fff;
+	margin-left: 10px;
+}
+
+.crystal {
+	display: inline;
+	margin: 20px;
+
+}
+
+#totalScore {
+	padding-top: 10px;
+	font-size: 30px;
+}
+
